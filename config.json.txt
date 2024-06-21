@@ -1,0 +1,5 @@
+{
+  "creatorName": "Evie 🏳️‍⚧️",
+  "creatorUrl": "https://t.me/poolsprayy",
+  "creatorLinkType": "telegram"
+}
